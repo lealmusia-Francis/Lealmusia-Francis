@@ -7,14 +7,16 @@
 
 ## Skills I'm Building
 - Git and GitHub
-- Python 
+- Python
+- Data analytics
+- Machne learning
 
 ## Current Projects
-- Working on 
+- Working on intergrating AI with the analytics kills to improve efficiency and detecting trends easily; to minimize errors and time to clean data.
 
 ## How to Reach Me
 - Email: lealmusiafrank1@gmail.com
-- LinkedIn: [your LinkedIn profile link]
+
 <!--
 **lealmusia-Francis/Lealmusia-Francis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
