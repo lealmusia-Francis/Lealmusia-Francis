@@ -1,0 +1,31 @@
+#Headings
+##My Learning goals
+###This semester
+#Text formatting
+I **want** to become a *skilled* analyst and `consistent` learner.
+#Links
+[My GitHub Profile](https://github.com/lealmusia-francis)
+[w3schools](https://www.w3schools.co)
+[kaggle](www.kaggle.com)
+#List
+- Learn Python
+- Learn Git and GitHub
+- Learn Data Science
+#Table
+| Tool | Purpose | Link |
+|------|---------|------|
+| GitHub | Store and manage code projects | https://github.com |
+| Python | Programming and data analysis | https://www.python.org |
+#Taslk lst
+- [x] Create a GitHub account
+- [x] Learn basic Markdown
+- [ ] Practice Git commands
+- [ ] Start learning Python
+#Code  block
+##Python
+print("Hello, World!")
+
+for i in range(1, 6):
+    print("Learning Python step", i)
+#Blockquote
+> "The best way to learn is by doing. Practice consistently and never give up."
