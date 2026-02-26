@@ -3,7 +3,7 @@
 ## About Me
 - I'm currently learning Applied statistics and cmputing.
 - I'm interested in AI and data science.
-- I'm looking to collaborate AI learning and intergrating it with the statistcal applications.
+- I'm looking to collaborate AI skills and intergrating it with the statistcal applications.
 
 ## Skills I'm Building
 - Git and GitHub
